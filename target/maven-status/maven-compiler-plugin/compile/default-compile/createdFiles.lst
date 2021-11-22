@@ -1,0 +1,4 @@
+com\imc\dummy\Config.class
+com\imc\dummy\Initializer.class
+com\imc\dummy\SessionDestroyerServlet.class
+com\imc\dummy\SessionServlet.class
